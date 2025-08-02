@@ -32,7 +32,6 @@ Despite generating **₹123M+ revenue**, the business faced critical issues:
 - **Pareto Analysis:** Measured revenue dependency on top 20% customers  
 - **Cohort Analysis:** Tracked customer retention for 3 months after first purchase  
 
-**SQL file:** [`rfm_cohort_clv_customer_analysis.sql`](./rfm_cohort_clv_customer_analysis.sql.sql)
 
 ---
 
